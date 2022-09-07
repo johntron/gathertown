@@ -1,0 +1,3 @@
+tasks:
+  - name: Install node dependencies
+    init: cd src && npm install
