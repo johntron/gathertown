@@ -1,0 +1,20 @@
+{
+  "name": "gathertown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gathertown/gather-game-client": "^37.0.1",
+    "@gathertown/gather-game-common": "^29.0.1",
+    "isomorphic-ws": "^5.0.0",
+    "typescript": "^4.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.15"
+  }
+}
